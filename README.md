@@ -1,6 +1,6 @@
 This is a OOP(object oriented programming) based project implement (eg: coffee machine) based on angela yu's OOP challenge exercise in pyhton.
 
-DEMO : run the main.py file
+DEMO : run the main.py file ( terminal cmd)
 =>
 what would you like? (latte/espresso/cappucino/) :report
 Water: 300ml
