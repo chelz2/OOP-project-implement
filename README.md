@@ -1,8 +1,10 @@
 This is a OOP(object oriented programming) based project implement (eg: coffee machine) based on angela yu's OOP challenge exercise in pyhton.
 
 DEMO : run the main.py file ( terminal cmd)</br>
-=>
+=></br>
+
 what would you like? (latte/espresso/cappucino/) </br> 
+
 :report =>
 Water: 300ml
 Milk: 200ml
@@ -10,7 +12,8 @@ Coffee: 100g
 Money: $0
 
 what would you like? (latte/espresso/cappucino/):abcd </br>
-=>
+=></br>
+
 sorry that item is not available
 
 what would you like? (latte/espresso/cappucino/) :latte </br>
