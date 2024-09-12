@@ -1,7 +1,7 @@
 # OOP - Coffee machine
 This is a OOP(object oriented programming) based project implement (eg: coffee machine) based on angela yu's OOP challenge exercise in pyhton.
 
-#DEMO 
+# DEMO 
 : run the main.py file ( terminal cmd)</br>
 =></br>
 
